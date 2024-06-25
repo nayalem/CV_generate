@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\obj\Debug\netstandard2.0\GeneradorCV.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\obj\Debug\netstandard2.0\GeneradorCV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\obj\Debug\netstandard2.0\GeneradorCV.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\obj\Debug\netstandard2.0\GeneradorCV.AssemblyInfo.cs
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\obj\Debug\netstandard2.0\GeneradorCV.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\obj\Debug\netstandard2.0\GeneradorCV.dll
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\obj\Debug\netstandard2.0\refint\GeneradorCV.dll
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\obj\Debug\netstandard2.0\GeneradorCV.pdb
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\bin\Debug\netstandard2.0\GeneradorCV.deps.json
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\bin\Debug\netstandard2.0\GeneradorCV.dll
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\bin\Debug\netstandard2.0\ref\GeneradorCV.dll
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\bin\Debug\netstandard2.0\GeneradorCV.pdb
+C:\Users\HP\Downloads\Dinamico\GeneradorCV\GeneradorCV\obj\Debug\netstandard2.0\XamlC.stamp
